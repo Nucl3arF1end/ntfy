@@ -1,0 +1,4 @@
+cache
+config/server.yml
+db
+.env
